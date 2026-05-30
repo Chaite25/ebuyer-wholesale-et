@@ -243,7 +243,7 @@ img {
     font-weight: bold;
     text-transform: uppercase;
     transition: 0.5s;
-    padding: 7px 20px;
+    padding: 10px 20px;
 }
 
 #navbar ul li a:hover {
@@ -372,7 +372,7 @@ img {
 .pt {
     font-size: 22px;
     font-weight: bold;
-    padding: 7px 20px;
+    padding: 10px 20px;
     background-color: #0074D9;
     background-repeat: no-repeat;
     color: #fff;
@@ -1035,7 +1035,7 @@ section.tab-section {
 }
 
 .csslider ul li img {
-    height: 400px;
+    height: 426px;
     width: auto;
     max-height: 100%;
 }
